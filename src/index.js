@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card.js';
-import App from './App.js'
+//import Card from './Card.js';
+import App from './containers/App.js'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import {robots} from './robots.js';
